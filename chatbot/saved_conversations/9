@@ -1,0 +1,21 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : Amit
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : Headache
+bot : - what kind of headache do you have : 1. Migrane headache - intense throbbing pain on just one side of the head. 2. Cluster headaches - severe and recurrent headaches 3. Tension Headache - Ocassional;
+user : 3
+bot : - - i have a cluster headache
+user : tension headache
+bot : - symptom noted. The cause of tension headaches is unclear, but stress, anxiety, and depression are common triggers. would you like to talk to a doctor?
+user : yes
+bot : - Bye. Nice talking to you
+user : Abc
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : fever
+bot : - good to know. how may i assist you then?
+user : i need medicines
+bot : - good to know. how may i assist you then?
+user : i am not feeling well
+bot : - okay. can you tell me what's wrong? what are your symptoms?
+user : body temperature is increasing
+bot : - This is a symptom of fever, you should take a tablet of crocin after you have your meal.

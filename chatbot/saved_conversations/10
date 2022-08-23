@@ -1,0 +1,11 @@
+bot : Hi There! I am a Health chatbot. You can begin conversation by typing in a message and pressing enter.
+user : hii
+bot : - Hello. How are you feeling today?
+user : a
+bot : - happy to help!
+user : hiii
+bot : - Hello. How are you feeling today?
+user : hiii
+bot : - Hello. How are you feeling today?
+user : i am having a headache
+bot : - what kind of headache do you have : 1. Migrane headache - intense throbbing pain on just one side of the head. 2. Cluster headaches - severe and recurrent headaches 3. Tension Headache - Ocassional;
